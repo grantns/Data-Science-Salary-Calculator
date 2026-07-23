@@ -96,3 +96,10 @@ Dashboard Implementation
   - 🎯 User input is restricted to predefined, validated schedule types
   - 🚫 Incorrect or inconsistent entries are prevented
   - 👥 Overall usability of the dashboard is enhanced
+ 
+<img width="468" height="386" alt="image" src="https://github.com/user-attachments/assets/a865bdee-f92d-47d6-a8f2-30486c623ad0" />
+
+
+### Conclusion  
+
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
