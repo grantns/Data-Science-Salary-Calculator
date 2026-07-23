@@ -70,3 +70,14 @@ The dataset used for this project contains real-world data science job informati
 - 🎯 Tailored Insights: Provides specific salary information for job titles, regions, and schedule types.
 - 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified
 
+
+Background Table
+<img width="371" height="297" alt="image" src="https://github.com/user-attachments/assets/e45f26b8-1bd7-4569-89b3-f859c717c1f0" />  
+
+
+Dashboard Implementation
+
+<img width="592" height="611" alt="image" src="https://github.com/user-attachments/assets/30826584-b708-4665-a386-ce446364cfd0" />  
+
+
+
