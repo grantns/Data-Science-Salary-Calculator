@@ -54,19 +54,19 @@ The dataset used for this project contains real-world data science job informati
 
 💰 Median Salary by Job Titles  
 
-``=MEDIAN(
-
-IF(  
-     
-      (jobs[job_title_short]=A2)* 
-      
-      (jobs[job_country]=country)* 
-      
+```
+  =MEDIAN(
+      IF(  
+      (jobs[job_title_short]=A2)*       
+      (jobs[job_country]=country)*   
       (ISNUMBER(SEARCH(type,jobs[job_schedule_type])))*
-      
       (jobs[salary_year_avg]<>0), 
-      
-      jobs[salary_year_avg]  
-      
+      jobs[salary_year_avg]        
 )
-)``
+)  
+```
+- 🔍 Multi-Criteria Filtering: Checks job title, country, schedule type, and excludes blank salaries.
+- 📊 Array Formula: Utilizes MEDIAN() function with nested IF() statement to analyze an array.
+- 🎯 Tailored Insights: Provides specific salary information for job titles, regions, and schedule types.
+- 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified
+
