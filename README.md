@@ -89,4 +89,10 @@ Dashboard Implementation
 
 <img width="501" height="532" alt="image" src="https://github.com/user-attachments/assets/5beb3bb4-2999-406e-a74f-da10af6ffc65" />
 
+❎ Data Validation  
 
+🔍 Filtered List
+- 🔒 Enhanced Data Validation: Implementing the filtered list as a data validation rule under the Job Title, Country, and Type option in the Data tab ensures:
+  - 🎯 User input is restricted to predefined, validated schedule types
+  - 🚫 Incorrect or inconsistent entries are prevented
+  - 👥 Overall usability of the dashboard is enhanced
