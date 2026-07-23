@@ -8,14 +8,14 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 The data is from my Excel course, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 
-## Excel Skills Used  
+### Excel Skills Used  
 The following Excel skills were utilized for analysis:
 
 - 📉 Charts
 - 🧮 Formulas and Functions
 - ❎ Data Validation
   
-## Data Jobs Dataset
+### Data Jobs Dataset
 The dataset used for this project contains real-world data science job information from 2023.  
 
 - 👨‍💼 Job titles
@@ -24,7 +24,7 @@ The dataset used for this project contains real-world data science job informati
 - 🛠️ Skills
 
 
-## Dashboard Build  
+### Dashboard Build  
 
 📉 Charts  
 
@@ -50,7 +50,7 @@ The dataset used for this project contains real-world data science job informati
 - 💡 Insights Gained: Enables quick grasp of global salary disparities and highlights high/low salary regions.
 
 
-## 🧮 Formulas and Functions  
+### 🧮 Formulas and Functions  
 
 💰 Median Salary by Job Titles  
 
@@ -71,17 +71,17 @@ The dataset used for this project contains real-world data science job informati
 - 🔢 Formula Purpose: This formula populates the table below, returning the median salary based on job title, country, and type specified
 
 
-Background Table
+### Background Table
 
 <img width="371" height="297" alt="image" src="https://github.com/user-attachments/assets/e45f26b8-1bd7-4569-89b3-f859c717c1f0" />  
 
 
-Dashboard Implementation
+### Dashboard Implementation
 
 <img width="592" height="611" alt="image" src="https://github.com/user-attachments/assets/30826584-b708-4665-a386-ce446364cfd0" />  
 
 
-⏰ Count of Job Schedule Type
+### ⏰ Count of Job Schedule Type
 
 <img width="338" height="192" alt="image" src="https://github.com/user-attachments/assets/43445ef0-c2b7-4b0e-845d-bdc39872b23c" />  
 
@@ -89,7 +89,7 @@ Dashboard Implementation
 
 <img width="501" height="532" alt="image" src="https://github.com/user-attachments/assets/5beb3bb4-2999-406e-a74f-da10af6ffc65" />
 
-❎ Data Validation  
+### ❎ Data Validation  
 
 🔍 Filtered List
 - 🔒 Enhanced Data Validation: Implementing the filtered list as a data validation rule under the Job Title, Country, and Type option in the Data tab ensures:
@@ -100,6 +100,6 @@ Dashboard Implementation
 <img width="468" height="386" alt="image" src="https://github.com/user-attachments/assets/a865bdee-f92d-47d6-a8f2-30486c623ad0" />
 
 
-### Conclusion  
+## Conclusion  
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel dataset, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
