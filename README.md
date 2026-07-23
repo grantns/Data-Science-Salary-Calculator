@@ -72,6 +72,7 @@ The dataset used for this project contains real-world data science job informati
 
 
 Background Table
+
 <img width="371" height="297" alt="image" src="https://github.com/user-attachments/assets/e45f26b8-1bd7-4569-89b3-f859c717c1f0" />  
 
 
@@ -79,5 +80,13 @@ Dashboard Implementation
 
 <img width="592" height="611" alt="image" src="https://github.com/user-attachments/assets/30826584-b708-4665-a386-ce446364cfd0" />  
 
+
+⏰ Count of Job Schedule Type
+
+<img width="338" height="192" alt="image" src="https://github.com/user-attachments/assets/43445ef0-c2b7-4b0e-845d-bdc39872b23c" />  
+
+📉 Dashboard Implementation:  
+
+<img width="501" height="532" alt="image" src="https://github.com/user-attachments/assets/5beb3bb4-2999-406e-a74f-da10af6ffc65" />
 
 
